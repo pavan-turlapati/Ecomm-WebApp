@@ -5,7 +5,7 @@ Backend : Java Spring Boot
 Deployed locally using Tomcat server. 
 Linked with a MySQL database for CRUD operations. 
 
-##Sample Pages
+## Sample Pages
 ![Screenshot 2022-04-11 111601](https://github.com/pavan-turlapati/Ecomm-WebApp/assets/45825805/c948fcd6-9ec9-4a0e-a3c3-0007d12a11da)
 
 
